@@ -1,5 +1,5 @@
 # 1. Choose the base system
-FROM node:18-alpine
+FROM node:22-alpine
 
 # 2. Create a working folder inside Docker
 WORKDIR /app
